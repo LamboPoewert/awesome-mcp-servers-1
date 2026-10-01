@@ -2489,5 +2489,20 @@
     "endpoints": {
       "streamableHttp": "https://app.communicate.so/mcp"
     }
+  },
+  {
+    "name": "MadeOnSol MCP Server",
+    "url": "https://github.com/MadeOnSol/mcp-server-madeonsol",
+    "description": "Solana KOL trades, wallet analytics, token and deployer intelligence, and DEX data via an API key or keyless x402 pay-per-call in USDC.",
+    "category": "data-analytics-and-bi",
+    "language": "TypeScript",
+    "provider": "MadeOnSol",
+    "tags": [
+      "solana",
+      "crypto",
+      "analytics",
+      "x402"
+    ],
+    "official": true
   }
 ]
